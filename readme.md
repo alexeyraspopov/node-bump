@@ -6,7 +6,7 @@ Update project version and create tag easily. This package works with `bower.jso
 
 If you're using NPM only check [native solution](https://docs.npmjs.com/cli/version)
 
-	npm version [<newversion> | major | minor | patch | premajor
+	npm version [<newversion> | major | minor | patch | premajor | preminor | prepatch | prerelease]
 
 ## Install
 
