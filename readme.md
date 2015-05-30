@@ -1,6 +1,12 @@
-# Version-bump
+# version-bump
 
-Update project version and create tag easily
+Update project version and create tag easily. This package works with `bower.json`, `package.json` and `component.json`.
+
+## NPM
+
+If you're using NPM only check [native solution](https://docs.npmjs.com/cli/version)
+
+	npm version [<newversion> | major | minor | patch | premajor
 
 ## Install
 
